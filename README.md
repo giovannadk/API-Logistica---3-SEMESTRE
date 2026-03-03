@@ -98,9 +98,9 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|00| 12/03/2025 |concluído| Kickoff|
-|01 | 09/04/2025 | concluído | [MVP](https://github.com/user-attachments/assets/fc567f65-823f-4192-93fd-9cf27503dde0) | 
-|02|  30/04/2025| concluído |[MVP](https://github.com/user-attachments/assets/7c483a93-8722-4dc8-9014-a8eeebdd5c7e) | 
-|03| 28/05/2025 | concluído |[MVP](https://github.com/user-attachments/assets/456837a0-f30a-4d9c-bd5b-aa1ed6bddff1) | 
-|04 - Feira de Soluções| 17/06/2025 |a fazer |[MVP](https://github.com/user-attachments/assets/7dfa2c04-736d-4a50-bd0c-b9b0f1034926)  | 
+|00| - |a fazer| Kickoff|
+|01 | - |  a fazer | [MVP](https://github.com/user-attachments/assets/fc567f65-823f-4192-93fd-9cf27503dde0) | 
+|02|  -|  a fazer |[MVP](https://github.com/user-attachments/assets/7c483a93-8722-4dc8-9014-a8eeebdd5c7e) | 
+|03| - | a fazer |[MVP](https://github.com/user-attachments/assets/456837a0-f30a-4d9c-bd5b-aa1ed6bddff1) | 
+|04 - Feira de Soluções| - |a fazer |[MVP](https://github.com/user-attachments/assets/7dfa2c04-736d-4a50-bd0c-b9b0f1034926)  | 
 
